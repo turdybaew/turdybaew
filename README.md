@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @turdybaew
+- 👀 I’m interested in collage
+- 🌱 I’m currently learning Dart
+- ⚡ Fun fact: I love playing and watching soccer
