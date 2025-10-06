@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @turdybaew
-- 🌱 I’m currently learning Flutter - Dart
-- ⚡ I love playing and watching soccer
